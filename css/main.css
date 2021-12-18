@@ -1,0 +1,12 @@
+:root {
+    font-size:32px;
+    background-color: teal;
+    --primary-font-color: #ffffff;
+}
+main {
+    font-size:3em;
+    width:100%;
+    margin: 16% auto;
+    text-align: center;
+    color: var(--primary-font-color);
+}
